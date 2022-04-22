@@ -47,7 +47,7 @@ body {
     padding: 0 15px;
 }
 
-.qr-card-content h3 {
+.qr-card-content h1 {
     font-size: 1.4em;
     color: var(--dark-blue);
     margin-bottom: 25px;
